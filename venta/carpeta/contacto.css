@@ -1,0 +1,58 @@
+body{
+	font-family: Bahnschrift Light;
+	font-style: italic;
+}
+h1{
+	font-family: Haettenschweiler;
+	color: #DE1818;
+}
+body{
+	background-image: url("LOGO.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: black;
+}
+ul{
+	background-color: #EDEDED;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	color: black;
+	display: block;
+	padding: 7px;
+	text-decoration: none;
+}
+ul li a:hover{
+	background-color: #DE1818;
+}
+.derecha{
+	float: right;
+}
+h2 a{
+	display: inline-block;
+	width: 300px;
+	text-align: center;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	text-decoration: none;
+	color: #EDEDED;
+}
+h2 a:hover{
+	background-color: #DE1818;
+}
+ol li{
+	display: inline-block;
+}
+p{
+	color: white;
+	font-size: 20px;
+}
